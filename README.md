@@ -14,7 +14,7 @@ Welcome to [Playroom](https://plexus.dev/playroom)! Here's some handy links for 
 # The Grand Plan
 The plan is to create a engine that's easy to use and understand but also has some powerful tools to use also. Playroom is being developed to help new game developers easily get a hang of starting in the game development space.
 
-# Components to be added
+### Components to be added:
  -Particle System
  -2D and 3D rendering
  -Support for Mac, Windows, Linux, Android and IOS
